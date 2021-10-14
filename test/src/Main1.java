@@ -19,4 +19,7 @@ public class Main1 {
         }
         System.out.println();
     }
+    public static void print(){
+        System.out.println("111");
+    }
 }
